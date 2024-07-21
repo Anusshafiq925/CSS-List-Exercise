@@ -1,0 +1,43 @@
+img {
+    width: 900px;
+}
+
+.unordered-list {
+    list-style: circle;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    list-style-position: outside;
+    font-size: xx-large;
+    line-height: 1.0;
+}
+
+.ordered-list {
+    list-style: url(./Assets/tick-svgrepo-com.svg);
+    list-style-position: outside;
+    text-align: right;
+    width: 500px;
+   
+}
+
+header {
+    margin:100px 250px;
+    padding: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.one {
+    background-color: aqua;
+}
+
+.two {
+    background-color: red;
+}
+
+.three {
+    background-color: blue;
+}
+
+.recipe-details {
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    padding: 50px;
+}
+
